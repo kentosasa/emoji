@@ -1,0 +1,20 @@
+body {
+  background: #EEE;
+}
+main {
+  max-width: 640px;
+  margin: auto;
+  margin-top: 16px;
+}
+main.mdl-layout__content {
+ background: #EEE;
+}
+textarea.mdl-textfield__input {
+  margin: 16px 0px;
+}
+input.mdl-textfield__input {
+  margin: 16px 0px;
+}
+.buttons {
+  margin-top: 16px;
+}
